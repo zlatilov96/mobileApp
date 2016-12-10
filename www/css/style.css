@@ -1,0 +1,29 @@
+/* Empty. Add your own CSS if you like */
+
+.color {
+    background: url(../img/p1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+.main {
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.mainSecond {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.mainThird {
+    text-align: center;
+}
+
+p {
+    color: #fff;
+    font-weight: 600;
+}
